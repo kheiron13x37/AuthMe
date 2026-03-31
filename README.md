@@ -1,7 +1,8 @@
-# 🛡️ AuthMePloit
+# 🛡️ AuthMePloit - New
 
 ![Version](https://img.shields.io/badge/Version-8.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
+![Downloads](https://img.shields.io/github/downloads/kheiron13x37/AuthMe/total.svg?color=success)
 
 ---
 
